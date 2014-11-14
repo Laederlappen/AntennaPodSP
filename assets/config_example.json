@@ -2,10 +2,10 @@
     "version" : 0,
 
     "feeds" : [
-        "http://feeds.feedburner.com/EinschlafenPodcastEnhanced?format=xml"
+        "http://www.heissluftdampfer.de/feed/mp3.xml"
         ],
 
-    "user_agent" : "EinschlafenPodcast/1.0",
+    "user_agent" : "HeissLuftDampferAndroid/1.1",
     
     "config" : {
         "pauseOnHeadsetDisconnect" : false,
