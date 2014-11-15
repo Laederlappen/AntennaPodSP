@@ -21,7 +21,7 @@ public class AppPreferences {
      * update their subscriptions list. Note that changing this list removes all old feeds on existing installations, which
      * means that all downloaded episodes will be deleted, too.
      */
-    public static final String[] feedUrls = {"http://www.heissluftdampfer.de/feed/mp3.xml"};
+    public static final String[] feedUrls = {"http://www.heissluftdampfer.de/feed/m4a.xml"};
 
     /**
      * User-Agent header for HTTP-requests.

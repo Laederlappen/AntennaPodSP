@@ -2,7 +2,7 @@
     "version" : 0,
 
     "feeds" : [
-        "http://www.heissluftdampfer.de/feed/mp3.xml"
+        "http://www.heissluftdampfer.de/feed/m4a.xml"
         ],
 
     "user_agent" : "HeissLuftDampferAndroid/1.1",
